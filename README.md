@@ -20,32 +20,14 @@ This project analyzes 20K+ customer support tickets to derive operational insigh
 - Incident-type tickets are most common
 - Customer support workload is multilingual (EN & DE)
 
-## 📈 Visualizations
+## 📊 Visualizations
 
-### Priority Distribution
-![Priority](visuals/priority_distribution.png)
+<p align="center">
+  <img src="visuals/priority_distribution.png" width="45%" />
+  <img src="visuals/queue_distribution.png" width="45%" />
+</p>
 
-### Queue Distribution
-![Queue](visuals/queue_distribution.png)
-
-### Type Distribution
-![Type](visuals/type_distribution.png)
-
-### Language Distribution
-![Language](visuals/language_distribution.png)
-
-## 📂 Project Structures
-.
-├── app.py
-├── data
-│   ├── cleaned_data.csv
-│   └── raw_data.csv
-├── notebooks
-│   └── customer_operations_analysis.ipynb
-├── README.md
-├── requirements.txt
-└── visuals
-    ├── language_distribution.png
-    ├── priority_distribution.png
-    ├── queue_distribution.png
-    └── type_distribution.png
+<p align="center">
+  <img src="visuals/type_distribution.png" width="45%" />
+  <img src="visuals/language_distribution.png" width="45%" />
+</p>
