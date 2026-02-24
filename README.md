@@ -34,4 +34,4 @@ This project analyzes 20K+ customer support tickets to derive operational insigh
 ### Language Distribution
 ![Language](visuals/language_distribution.png)
 
-## 📂 Project Structure
+## 📂 Project Structures
