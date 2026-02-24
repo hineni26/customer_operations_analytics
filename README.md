@@ -35,3 +35,17 @@ This project analyzes 20K+ customer support tickets to derive operational insigh
 ![Language](visuals/language_distribution.png)
 
 ## 📂 Project Structures
+.
+├── app.py
+├── data
+│   ├── cleaned_data.csv
+│   └── raw_data.csv
+├── notebooks
+│   └── customer_operations_analysis.ipynb
+├── README.md
+├── requirements.txt
+└── visuals
+    ├── language_distribution.png
+    ├── priority_distribution.png
+    ├── queue_distribution.png
+    └── type_distribution.png
